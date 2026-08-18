@@ -174,12 +174,12 @@ flutter run
 Developed as a semester project for the BS Computer Science program.
 
 - **Sikandar Abbas**
-- **Ali Hamza**
-- **Muhammad Ashir**
+- **Ayeza**
+- **Sidra Aiman**
 ---
 **My Contribution**
 
-As Sikandar Abbas, I served as the lead contributor on the AI/Deep Learning component of Smart Recipe Detection. My core responsibility was designing and training the custom CNN-based image classification model using MobileNetV2 with transfer learning in TensorFlow (Google Colab) — covering dataset preparation, preprocessing, and model tuning across 10 dish classes to reach ~96% training and ~75% testing accuracy. I also handled converting the trained model to TensorFlow Lite and integrating it into the Flutter application, including building the on-device inference pipeline (image preprocessing, running predictions through the TFLite interpreter, and confidence-based result filtering) and connecting it with Firebase (Firestore, Storage, and ML Model Downloader) to fetch and display ingredients, nutritional information, and recipes for each recognized dish. My teammates, Ali Hamza and Muhammad Aashir, contributed to the Flutter front-end screens (authentication, home, history, and profile UI) and supported dataset collection, testing, and Firebase backend configuration, rounding out the end-to-end mobile application.
+As Sikandar Abbas, I served as the lead contributor on the AI/Deep Learning component of Smart Recipe Detection. My core responsibility was designing and training the custom CNN-based image classification model using MobileNetV2 with transfer learning in TensorFlow (Google Colab) — covering dataset preparation, preprocessing, and model tuning across 10 dish classes to reach ~96% training and ~75% testing accuracy. I also handled converting the trained model to TensorFlow Lite and integrating it into the Flutter application, including building the on-device inference pipeline (image preprocessing, running predictions through the TFLite interpreter, and confidence-based result filtering) and connecting it with Firebase (Firestore, Storage, and ML Model Downloader) to fetch and display ingredients, nutritional information, and recipes for each recognized dish. My teammates, Ayeza and Sidra Aiman, contributed to the Flutter front-end screens (authentication, home, history, and profile UI) and supported dataset collection, testing, and Firebase backend configuration, rounding out the end-to-end mobile application.
 
 ## 📄 License
 
